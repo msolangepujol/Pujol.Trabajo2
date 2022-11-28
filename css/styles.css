@@ -96,7 +96,7 @@ button:hover {
 }
 
 .front {
-  background-image: url(../Img/mandalas-gb71526fd3_1920.jpg);
+  background-image: url("../img/mandalas-gb71526fd3_1920.jpg");
   display: flex;
   flex-direction: column;
   justify-content: center;
